@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mirjalol-abdunazarov-322b1b286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mirjalol-abdunazarov-322b1b286" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/linkedin.com/in/mirjalol-abdunazarov-322b1b286](https://github.com/Devaxiis)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mirjalol-abdunazarov-322b1b286" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27245553/mirjalol-abdunazarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27245553/mirjalol-abdunazarov" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@mirjalolabdunazarov1425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mirjalolabdunazarov1425" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@mirjalol_abdunazarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@mirjalol_abdunazarov" height="30" width="40" /></a>
