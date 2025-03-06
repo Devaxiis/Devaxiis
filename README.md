@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaxiis&label=Profile%20views&color=0e75b6&style=flat" alt="devaxiis" /> </p>
 
-- 🔭 I’m currently working on **Beshariq IT Center**
+- 🔭 I’m currently working on **Agile Tech**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter flow**
 
-- 👯 I’m looking to collaborate on **Quality quest**
+- 👯 I’m looking to collaborate on **My Tab**
 
 - 🤝 I’m looking for help with **Seezn Tv**
 
