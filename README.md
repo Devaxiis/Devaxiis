@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaxiis&label=Profile%20views&color=0e75b6&style=flat" alt="devaxiis" /> </p>
 
-- 🔭 I’m currently working on **Agiletech**
+- 🔭 I’m currently working on **Open to work**
 
-- 🌱 I’m currently learning **Flutter flow**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Help Mate**
-
-- 🤝 I’m looking for help with **Seezn Tv**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devaxiis](https://github.com/Devaxiis)
 
